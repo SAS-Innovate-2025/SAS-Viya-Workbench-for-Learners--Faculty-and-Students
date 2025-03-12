@@ -1,6 +1,6 @@
 # SAS-Viya-Workbench-for-Learners--Faculty-and-Students
 
-Follow along as your instructor presents a portion of a case study to learn what you can accomplish with SAS Macro Language variables.
+Join this session to explore SAS Viya Workbench for Learners, a free, on-demand environment for students and educators to build programming skills and develop AI models.
 
 ## Important Information
 
